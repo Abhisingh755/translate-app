@@ -1,0 +1,17 @@
+h1{color:cornflowerblue;}
+
+.main{margin:auto; display:flex; width:860px}
+
+.main >textarea{width:400px; height:400px ; margin:auto;color:aliceblue;font-size:22px;border:2px dashed rgb(10, 248, 10);background-color: cornflowerblue;border-radius:10px;}
+.main >div{width:400px; height:400px ; margin:auto; border:2px dashed black}
+
+#btn_div{text-align: center; margin: 10px;}
+
+button{padding:5px 20px;background-color: cornflowerblue;border-radius:10px;}
+
+.cen{text-align: center; margin: auto; margin: 10px;}
+
+.cen >div{display:flex}
+.cen> div > div{margin-left: 340px;}
+select{background-color:cornflowerblue;border-radius:10px;padding:5px;}
+#output_text{background-color:cornflowerblue;border-radius:10px;border:2px dashed rgb(242, 8, 203);color:aliceblue;font-size:22px;margin:auto;}
